@@ -5,3 +5,6 @@ This is a practice repository for learning Git basics
 - README.md: project description
 - hello.py: Simple Python Script
 # Git Commands Practiced
+## About This Project
+This project demonstrates Git and GitHub integration.
+Created during Git training course.
